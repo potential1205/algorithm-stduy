@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:90EE90,100:90EE90&height=250&section=header&text=Algorithm%20Study&fontSize=90&fontAlignY=40&desc=by%20낭만뚜쵸&descAlign=90&descAlignY=66)
-### 기대 효과
+### 기대 효과  
 **1. 자료구조와 알고리즘 기초 지식의 체계적 강화** <br>
 기초적인 자료구조(스택, 큐, 트리 등)와 알고리즘(정렬, 탐색 등)을 체계적으로 학습하여, 문제의 유형을 파악하고 적절한 자료구조 및 알고리즘을 선택할 수 있는 능력을 배양합니다. 이를 통해 실전에서 문제 해결 접근 방식이 탄탄해집니다.
 
